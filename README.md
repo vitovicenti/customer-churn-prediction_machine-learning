@@ -1,1 +1,1 @@
-# customer-churn-prediction_machine-learning
+# Bank Customer Churn Prediction - Machine Learning project
